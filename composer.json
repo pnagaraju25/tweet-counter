@@ -2,13 +2,13 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/mynetx/codebird-php",
+            "url": "https://github.com/jublonet/codebird-php",
             "autoload": {
                 "classmap": ["src/"]
             }
         }
     ],
     "require": {
-        "mynetx/codebird-php": "*"
+        "jublonet/codebird-php": "*"
     }
 }
